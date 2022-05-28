@@ -1,7 +1,7 @@
 # dbank
-simple dApp 
-YOU WILL NEED NODE AND DFX INSTALLED
-run this command to install dfx:
+simple dApp <br>
+YOU WILL NEED NODE AND DFX INSTALLED <br>
+run this command to install dfx: <br>
 DFX_VERSION=0.9.3 sh -ci "$(curl -fsSL https://sdk.dfinity.org/install.sh)"
 
 1. download and unzip the reopsitory
