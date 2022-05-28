@@ -1,5 +1,7 @@
 # dbank
 simple dApp <br>
+Windows instruction: coming soon <br>
+Mac instructions:<br>
 YOU WILL NEED NODE AND DFX INSTALLED <br>
 run this command to install dfx: <br>
 DFX_VERSION=0.9.3 sh -ci "$(curl -fsSL https://sdk.dfinity.org/install.sh)"
